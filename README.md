@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3e68fb97-0247-449d-a63b-7488f8f68d74)# Gestor_de_tareas
+# Gestor_de_tareas
 
 Este proyecto es una sencilla aplicación de escritorio para la gestión de tareas, desarrollada en Python con Tkinter para la interfaz gráfica y SQLite como base de datos. Permite agregar, listar, marcar como completadas y eliminar tareas de una manera fácil e intuitiva.
 
@@ -15,4 +15,4 @@ Espero sea de su agrado y me notifiquen con respecto a cualquier correción o in
     *   Marcar tareas como completadas.
     *   Eliminar tareas.
     *   
-*![Captura de pantalla de la ventana principal](captura_principal.png)
+*![Captura de pantalla de la ventana principal](https://github.com/user-attachments/assets/3e68fb97-0247-449d-a63b-7488f8f68d74)
